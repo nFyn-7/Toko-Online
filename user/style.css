@@ -1,0 +1,15 @@
+.abu {
+    background: #c8b3b3;
+}
+
+#navbar {
+    background-color: var(--bek2);
+    padding: 25px;
+    position: sticky;
+    text-align: right;
+    top: 0;
+    height: 60px;
+    width: 100%;
+    z-index: 1000;
+    transition: 0.4s;
+  }
